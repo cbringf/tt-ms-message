@@ -1,0 +1,22 @@
+{
+  "name": "tt-ms-message",
+  "version": "1.0.0",
+  "description": "Library to build and parse microservice system messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbringf/tt-ms-message.git"
+  },
+  "author": "Celso Bring",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbringf/tt-ms-message/issues"
+  },
+  "homepage": "https://github.com/cbringf/tt-ms-message#readme",
+  "dependencies": {
+    "rxjs": "^6.2.2"
+  }
+}
